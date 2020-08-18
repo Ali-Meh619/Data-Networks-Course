@@ -10,5 +10,8 @@ This is the repository for my solutions to the Data Networks course's coumputer 
 
 **Assignment 4:** Simulation of Dijkstra Routing Algorithm Via NS3 and its Implemention Via Python 
 
+**Final Project:**
+- Implementation of LTE Standards for a Simple Call Service in a 4G Network Via Socket Programming 
+
 
 
